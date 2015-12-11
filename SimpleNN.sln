@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleNN", "SimpleNN\SimpleNN.vcxproj", "{5952BEB5-15F7-48F7-B4C7-9B2DCD811020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5952BEB5-15F7-48F7-B4C7-9B2DCD811020}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5952BEB5-15F7-48F7-B4C7-9B2DCD811020}.Debug|Win32.Build.0 = Debug|Win32
+		{5952BEB5-15F7-48F7-B4C7-9B2DCD811020}.Release|Win32.ActiveCfg = Release|Win32
+		{5952BEB5-15F7-48F7-B4C7-9B2DCD811020}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
