@@ -13,7 +13,7 @@ void main(void)
   const int n_in=8;   //adapt to train data
   const int n_hid=3;
   const int n_out=8;  //adapt to train data
-  const int train_iterations = 5000;
+  const int train_iterations = 500000;
   const double bpnn_learning_rate = 0.3;
   const double bpnn_momentum = 0.3;
   

@@ -1,9 +1,10 @@
-﻿生成启动时间为 2015/12/11 22:29:22。
+﻿生成启动时间为 2015/12/11 22:43:07。
      1>项目“C:\Users\ling\360云盘\Machine_Learning\tom_ml_book\code\face_detection_MyCode\simple_NN\SimpleNN_1\SimpleNN\SimpleNN.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Debug\SimpleNN.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
          c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+     1>cl : 命令行 warning D9028: 最小重新生成失败，正在转换为标准生成
          main.cpp
        ManifestResourceCompile:
          所有输出均为最新。
@@ -24,4 +25,4 @@
 
 生成成功。
 
-已用时间 00:00:00.85
+已用时间 00:00:00.90
